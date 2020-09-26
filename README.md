@@ -11,4 +11,4 @@ https://www.facebook.com/sp6qkx
 
 That all folks :) vy73 Daniel SP6QKX . https://www.qrz.com/db/sp6qkx
 
-<img src="https://raw.githubusercontent.com/SP6QKX/SP6QKX/ICOM-RAM-BOARD-V1/master/ram1.jpg">
+<img src="https://raw.githubusercontent.com/SP6QKX/ICOM-RAM-BOARD-V1/master/ram1.jpg">
